@@ -2,10 +2,6 @@
 
 Este es un paquete de pruebas de despliegue en NPM
 
-
-### Facundo Javier Bettella
-
-
 ### Ejemplo
 
 ```
@@ -30,4 +26,7 @@ import { ProductCard } from "product-card-fjb";
       )
     }
   </ProductCard>
+
 ```
+
+## Facundo Javier Bettella
