@@ -22,6 +22,7 @@ export const ProductButtons = ({ className, style }: IButtonProps) => {
 
     return (
         <div className={`${styles.buttonsContainer} ${className}`} style={style}>
+            
             <button className={styles.buttonMinus} onClick={() => increaseBy(-1)}> - </button>
 
             <div className={styles.countLabel}> {counter} </div>

@@ -1,8 +1,8 @@
 # Product-Card-FJB
 
-Este es un paquete de pruebas de despliegue en NPM
+This is a test package for deployment on NPM
 
-### Ejemplo
+### Example
 
 ```
 import { ProductCard } from "product-card-fjb";
@@ -29,4 +29,4 @@ import { ProductCard } from "product-card-fjb";
 
 ```
 
-## Facundo Javier Bettella
+### Facundo Javier Bettella
